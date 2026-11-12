@@ -1,0 +1,33 @@
+{
+  "gameDownloadUrl": "ССЫЛКА_НА_АРХИВ_ИГРЫ",
+  "bannerMain": {
+    "title": "БАНКОМАТЫ",
+    "image": "https://unsplash.com",
+    "url": "https://vk.com"
+  },
+  "bannerSide": {
+    "title": "ОБНОВЛЕНИЕ БРОНЕЖИЛЕТОВ",
+    "image": "https://unsplash.com",
+    "url": "https://vk.com"
+  },
+  "news": [
+    {
+      "title": "HaskPass 43 сезон",
+      "date": "12.11",
+      "image": "https://unsplash.com",
+      "url": "https://vk.com"
+    },
+    {
+      "title": "Покер в казино",
+      "date": "05.11",
+      "image": "https://unsplash.com",
+      "url": "https://vk.com"
+    },
+    {
+      "title": "Розыгрыш UAZ 452",
+      "date": "29.10",
+      "image": "https://unsplash.com",
+      "url": "https://vk.com"
+    }
+  ]
+}
