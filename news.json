@@ -1,33 +1,33 @@
 {
-  "gameDownloadUrl": "https://google.com",
+  "googleDriveId": "1qyzYJ2wE9CwHy1tV8d6nrFQixrtnlNGT",
   "bannerMain": {
     "title": "БАНКОМАТЫ",
-    "image": "https://unsplash.com",
-    "url": "https://vk.com"
+    "image": "",
+    "url": "https://vk.ru"
   },
   "bannerSide": {
     "title": "ОБНОВЛЕНИЕ БРОНЕЖИЛЕТОВ",
-    "image": "https://unsplash.com",
-    "url": "https://vk.com"
+    "image": "",
+    "url": "https://vk.ru"
   },
   "news": [
     {
       "title": "HaskPass 43 сезон",
       "date": "12.11",
-      "image": "https://unsplash.com",
-      "url": "https://vk.com"
+      "image": "",
+      "url": "https://vk.ru"
     },
     {
       "title": "Покер в казино",
       "date": "05.11",
-      "image": "https://unsplash.com",
-      "url": "https://vk.com"
+      "image": "",
+      "url": "https://vk.ru"
     },
     {
       "title": "Розыгрыш UAZ 452",
       "date": "29.10",
-      "image": "https://unsplash.com",
-      "url": "https://vk.com"
+      "image": "",
+      "url": "https://vk.ru"
     }
   ]
 }
