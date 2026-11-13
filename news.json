@@ -6,28 +6,28 @@
     "url": "https://vk.ru"
   },
   "bannerSide": {
-    "title": "ОБНОВЛЕНИЕ БРОНЕЖИЛЕТОВ",
+    "title": "ОБНОВЛЕНИЕ ЛАУНЧЕРА",
     "image": "",
-    "url": "https://vk.ru"
+    "url": "https://max.ru/c/-79493705490613/AaHQsO4kfDo"
   },
   "news": [
     {
+      "title": "Новый лаунчер",
+      "date": "12.11",
+      "image": "https://ibb.co/TBGFZBYG",
+      "url": "https://max.ru/c/-79493705490613/AaHQsO4kfDo"
+    },
+    {
       "title": "Новая фракция ФСБ",
       "date": "7.11",
-      "image": "",
+      "image": "https://ibb.co/Gfd5TMQQ",
       "url": "https://max.ru/c/-79493705490613/AaG3AOEIZeE"
     },
     {
-      "title": "",
-      "date": "",
+      "title": "Открытие игры",
+      "date": "4.11",
       "image": "",
-      "url": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "image": "",
-      "url": ""
+      "url": "https://max.ru/c/-79493705490613/AaGm-CdYCms"
     }
   ]
 }
